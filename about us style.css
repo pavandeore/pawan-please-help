@@ -1,0 +1,23 @@
+.bgimg
+{
+    display: flex;
+}
+.main
+{
+    margin: auto;
+}
+#navbar1{
+    display: flex;
+}
+.footer
+{
+    background: rgb(243, 246, 250);
+}
+.about_company
+{
+    float: left;
+}
+.usefullinks
+{
+    float: right;
+}
